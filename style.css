@@ -182,15 +182,16 @@ li {
   .hero h2 {
     font-size: 1.5rem;
   }
-  .credit-footer {
+ .credit-footer {
     position: fixed; 
     bottom: 0; 
     left: 0;
     width: 100%; 
-    border-top: 1px solid #e0e0e0; 
+    border-top: 3px solid #f1f6eb; 
+    background-color: #f1f6eb; 
     padding: 15px 0; 
     text-align: center;
-    color: #666;
+    color: #1a4314;
     z-index: 999; 
 }
 }
